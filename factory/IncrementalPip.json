@@ -1,0 +1,15 @@
+{
+	"name": "IncrementalPip",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "316db9cd-7e77-4e21-8b50-2129a482aace",
+		"tenantId": "b1224fbb-e5df-409e-a437-2fdb25d4bcca"
+	}
+}
